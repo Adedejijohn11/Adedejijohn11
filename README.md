@@ -1,8 +1,11 @@
+ 
+# 🏄‍♂️ Hi, I'm Adedeji John
 
-# 🏄‍♂️ Adedeji John
+💻 **`Front-End Developer | React • Next.js • TypeScript • Tailwind CSS `**
 
-**`Front-end Developer `**
-<h3 align="center">I'm a Front-end Developer, Currently seeking for an Internship to contribute my skills and grow through real-world experience.</h3>
+<h3>🌱 Currently seeking a Front-End Developer Internship to contribute my skills and grow through real-world experience.</h3>
+
+  
 
 - 🔭 I’m currently working on **improving my skills**
 
@@ -24,7 +27,6 @@
 
 
 ## 🚀 Projects  
-
 ### 🎬 [Cinema Website](https://movie-website-eight-pi.vercel.app/)  
 A movie discovery app built with **Next.js, Tailwind CSS, and JavaScript**, integrating the TMDB API to fetch and display real-time movie data.  
 
