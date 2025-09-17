@@ -31,7 +31,7 @@ A movie discovery app built with **Next.js, Tailwind CSS, and JavaScript**, inte
 ### 🛒 [Protech -  E-commerce Store](https://protech-xi-three.vercel.app/)  
 An online shop for electronics and home appliances built with **React, TypeScript, and Tailwind CSS**, featuring product pages, search, and filtering.  
 
-*(More projects available on my [GitHub Repositories](https://github.com/your-username?tab=repositories))*  
+*(More projects available on my [GitHub Repositories](https://github.com/Adedejijohn11?tab=repositories))*  
 
 ⭐️ Feel free to explore my projects and reach out if you'd like to collaborate or have internship opportunities available! 
 
